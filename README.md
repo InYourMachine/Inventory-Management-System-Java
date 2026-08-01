@@ -107,7 +107,7 @@ java Main
 
 ## License
 
-This project was developed for educational purposes as part of the OOP course.
+This project was developed for educational purposes as part of the OOP course (CS-112L).
 
 ## About This Project
 
